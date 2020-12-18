@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/jcalvinowens
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jcalvinowens.com
+  * I am jcalvinowens (https://keybase.io/jcalvinowens) on keybase.
+  * I have a public key with fingerprint 07CC 72D4 CBA8 9962 7D07  B1EE 3C28 C37A 9296 124C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116ef8f7d476637f84f43992507990b85aa1f5d5c4077c2cf14e92daa066a5c03aa0a",
+      "fingerprint": "07cc72d4cba899627d07b1ee3c28c37a9296124c",
+      "host": "keybase.io",
+      "key_id": "3c28c37a9296124c",
+      "kid": "0116ef8f7d476637f84f43992507990b85aa1f5d5c4077c2cf14e92daa066a5c03aa0a",
+      "uid": "746626c1e2d5ab2d9c2ed6277b7ce700",
+      "username": "jcalvinowens"
+    },
+    "service": {
+      "hostname": "jcalvinowens.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1608265721,
+  "expire_in": 157680000,
+  "prev": "5567a90a8397250c0414b0fdee314e24281f40e659a0ccf6273c3989d03a4444",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUs9rFDEUntpdqUWxoOzFH2Dwoiw1yeTHZBXEs7AIgiDCDpkks43dzqwzs1uX
+0oMHpd70D/CgiBcvHqzrTUFEsHosQvWw0JOC+CfUpNhbj75Lkve+9+V7X/LoyHQw
+0xgX263Jq88XpjZ+JkH8A9ZWQJLrEWitgEWzu5ieNmUVL1oNWgAixEwapVwTzljI
+04ikJBQCU8iFgElEpUQp1VQRyLnCKkXECKylhIxJqmDodhI0QWqzrin6hc0qT8uV
+4lgTlchICIa5hjxBxoQKRyrkUmDBECbKNS7kpe9w4hJZmnmbu5w7xLvy9sH/Z92D
+XTpOGMNMIYM1lQnWQmGjnWyecGU4hB5YmiKTS8ahbyvZG9osXzZZCVabwFWGVhlv
+rp9mH9S8ypccR7/Iq1zlPVddqKp+2fLd1ajv4csmif8RxYnNtPPTdQxNUdo8Ay3k
+kKqynhkxGGFGOUZNYO72bWFi6xGUswi68PeYIWhJQClz3kEZhYI7ZxQkiCQw1e4h
+nB2Y4AilBBpGhYRKpW7gUIUiEtrZQ1wAP9udLHfkoRMqu05nabuZrAaFAauza4Na
+0JgJTjXO1A7H7zd3Tj48sXXs05W9P1g/4D9gMHtobi/z4F2wc2t7+vib3vOL9ybn
+749+f317tf3n5mXb2diq3/j14cvj61PBpH3p44uzB7+d7r4e8+/tp+c64/WXdG3z
+2rN6Z279ydG/
+=oC/U
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jcalvinowens
+
+==================================================================
